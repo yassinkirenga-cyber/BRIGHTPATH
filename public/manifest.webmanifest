@@ -1,0 +1,21 @@
+{
+  "name": "BrightPath Learning",
+  "short_name": "BrightPath",
+  "description": "Fun learning for IB and Cambridge students",
+  "lang": "en-US",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "categories": ["education", "learning"],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
