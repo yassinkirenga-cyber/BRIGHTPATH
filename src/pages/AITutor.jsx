@@ -150,6 +150,7 @@ export default function AITutor() {
                 </div>
               </div>
             </div>
+          </div>
 
             <div className="flex items-center gap-3 flex-wrap">
               <button
